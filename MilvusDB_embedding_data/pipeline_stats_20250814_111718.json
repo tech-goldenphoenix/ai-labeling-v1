@@ -1,0 +1,19 @@
+{
+  "start_time": "2025-08-14T11:13:18.449037",
+  "crawled_count": 5000,
+  "duplicate_count": 0,
+  "processed_count": 0,
+  "inserted_count": 0,
+  "failed_count": 1,
+  "skipped_duplicates": [],
+  "inserted_ids": [],
+  "failed_records": [
+    {
+      "id_sanpham": "689cb6c68a7d2c76ed05dcb2",
+      "image_url": "https://toi.sgp1.digitaloceanspaces.com/p/2025/08/689cb6c68a7d2c76ed05dcb2_1.jpg",
+      "error": "Lỗi xử lý record 689cb6c68a7d2c76ed05dcb2: Lỗi labeling: Lỗi GPT_OSS_20B analysis: Không tìm thấy JSON trong response"
+    }
+  ],
+  "total_time_seconds": 240.01,
+  "end_time": "2025-08-14T11:17:18.462530"
+}
